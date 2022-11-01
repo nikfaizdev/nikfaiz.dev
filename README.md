@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nik Faiz</h1>
-<h3 align="center">I'm a Islamic Finance student, an aspiring front-end developer and a passionate learner!!</h3>
+<h1>Hi 👋, I'm Nik Faiz</h1>
+<h3>I'm a Islamic Finance student, an aspiring front-end developer and a passionate learner!!</h3>
 
 - 🔭 I’m currently working on **some mini front-end projects for newbies to practice my skills.**
 
