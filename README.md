@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nik Faiz 👋🤍</h1>
+<h1>Hi, I'm Nik Faiz 👋🤖</h1>
 <h3>I'm a Islamic Finance student, an aspiring front-end developer and a passionate learner!!</h3>
 
 - 🔭 I’m currently working on some mini front-end projects for newbies to practice my skills.
@@ -7,7 +7,7 @@
 
 - 🥅 2022 Goals: To learn more and more about tech and grow as a front-end developer. To learn more and more about tech and grow as a front-end developer.
 
-- ⚡ Fun fact: **When code is hard, Gym is friend.**
+- ⚡ Fun fact:  **When code is hard, Gym is my friend 🏋️‍♂️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
